@@ -34,4 +34,4 @@ Developing a piece of software isn't just about programming. Without the time an
 
 ## Class links
 
--<https://www.bing.com/search?q=blog+software+engineering+netflix&form=WSBEDG&qs=SW&cvid=06c948f1567540df889383ac3fbfe1f1&pq=blog+software+engineering+netflix&cc=US&setlang=en-US&nclid=05BBCD725621F6BD6D69DB7C717C6219&ts=1723732336804&wsso=Moderate>
+-<[https://www.bing.com/search?q=blog+software+engineering+netflix&form=WSBEDG&qs=SW&cvid=06c948f1567540df889383ac3fbfe1f1&pq=blog+software+engineering+netflix&cc=US&setlang=en-US&nclid=05BBCD725621F6BD6D69DB7C717C6219&ts=1723732336804&wsso=Moderate](The Netflix Blog)>
