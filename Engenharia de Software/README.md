@@ -42,6 +42,8 @@ Developing a piece of software isn't just about programming. Without the time an
 
 ## Analysis of Netflix's Architecture
 
+![alt text][netflix-tech]
+
 1. **DevOps**
     - **Tools**:
         - **JIRA, Confluence**: For project management and team collaboration.
@@ -97,3 +99,5 @@ Developing a piece of software isn't just about programming. Without the time an
     - **MySQL** is a solid relational database with a wide user base, but PostgreSQL offers more advanced features and better compliance with SQL standards.
     - **Cassandra** is highly scalable and suited for distributed data but can be complex to manage. MongoDB might offer easier scalability and flexibility for unstructured data, but with potential consistency trade-offs.
     - **EVCache** and CockroachDB provide distributed caching and transactional capabilities, respectively, but they come with increased operational complexity. Redis could be an alternative for caching, offering simplicity but not the same distribution capabilities as EVCache.
+
+[netflix-tech]: Assets/F5RXFLKakAAaNrJ.jpg
